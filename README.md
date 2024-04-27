@@ -1,8 +1,12 @@
-# 👋 Hi! I`m Alice (1️⃣9️⃣ y.o) - React frontend Developer. Russian Federation, Moscow.
+<h1>👋 Hi! I`m Alice (1️⃣9️⃣ y.o) - React frontend Developer. Russian Federation, Moscow.</h1>
+<h2>👩‍💻 Currently, I`m working on https://dragon-eye.vercel.app/</h2>
+
 <b>Languages</b>:
 1. Russian
 2. English
 3. Ukrainian
+
+
 
 ### My developer stack (just only what i use always, but i know MORE! 😊):
 - TypeScript
