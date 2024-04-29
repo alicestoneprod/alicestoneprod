@@ -16,7 +16,7 @@
 - SASS (SCSS),
 - GIT
 - Redux & Redux Toolkit (prefer)
--  Node.js (parsers, telegram bots)
+-  Node.js (parsers, telegram bots, backend)
 - Prisma.js & MySQL (for backend)
 
 #### Contact with me:
