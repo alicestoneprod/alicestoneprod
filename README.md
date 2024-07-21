@@ -17,7 +17,7 @@
 - SASS (SCSS),
 - GIT
 - Redux & Redux Toolkit (prefer)
-- Node.js (parsers, telegram bots, backend)
+- Node.js (parsers, telegram bots, backend, binary file`s structure reading)
 - Prisma.js & MySQL (for backend)
 - Nest.js (recetly i test it and got pleasure)
 
