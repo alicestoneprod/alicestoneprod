@@ -1,8 +1,6 @@
 <h1>👋 Hi! I`m Alice (1️⃣9️⃣ y.o) - React frontend Developer. Russian Federation, Moscow.</h1>
-<h2>
-👩‍💻 Currently, I`m working on https://dragon-eye.vercel.app\n
-😎 Also my book about Dragon Nest files formats: https://alice-morozova.gitbook.io/dragon-nest/
-/</h2>
+<h2>👩‍💻 Currently, I`m working on https://dragon-eye.vercel.app/</h2>
+<h2>😎 Also my book about Dragon Nest files formats: https://alice-morozova.gitbook.io/dragon-nest/</h2>
 <h3>😊 To be honest, I always struggle with writing backend code, so I'm considering becoming a <b>full-stack developer</b>.</h3>
 
 <b>Languages</b>:
